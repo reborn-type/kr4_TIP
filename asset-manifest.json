@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kr4_TIP/static/css/main.29090207.css",
+    "main.js": "/kr4_TIP/static/js/main.4aed0e59.js",
+    "index.html": "/kr4_TIP/index.html",
+    "main.29090207.css.map": "/kr4_TIP/static/css/main.29090207.css.map",
+    "main.4aed0e59.js.map": "/kr4_TIP/static/js/main.4aed0e59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29090207.css",
+    "static/js/main.4aed0e59.js"
+  ]
+}
